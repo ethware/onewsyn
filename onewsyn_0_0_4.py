@@ -1,6 +1,6 @@
 # -*- coding:utf-8  -*-
 import os, sys, time, subprocess
-import settings as stts
+import st_template as stts
 
 
 #支持排除功能，跳过对所选路径的备份与同步；
