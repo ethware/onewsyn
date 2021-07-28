@@ -1,4 +1,4 @@
-from onewsyn_0_0_4 import tempDir
+tempDir = ""
 
 sambaWork = "//username:password@hostname/Sharedfolder/"
 sambaHome = "//username:password@hostname/Sharedfolder/"
